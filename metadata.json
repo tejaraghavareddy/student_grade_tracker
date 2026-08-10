@@ -1,0 +1,6 @@
+{
+  "name": "Student Grade Tracker",
+  "description": "Manage student grades, calculate class statistics (average, highest, lowest), search by ID, and toggle between interactive GUI and Terminal modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
